@@ -12,8 +12,8 @@ Beispiel Aufbau:
 
 ## Beispiel Ausgabe
 ```
-Owner : read write execute Peter G1
-Gruppe: read write execute Hans G1
-Others: read --- ---  Jörges G2
-Others: --- --- ---  Jörges G2
+read write execute
+read write execute
+read --- --- 
+--- --- ---
 ```
